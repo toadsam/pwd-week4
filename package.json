@@ -1,0 +1,23 @@
+{
+  "name": "pwd-week4",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/toadsam/pwd-week4#readme",
+  "bugs": {
+    "url": "https://github.com/toadsam/pwd-week4/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toadsam/pwd-week4.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
