@@ -34,5 +34,17 @@
     "recommendedMenu": ["냉모밀", "김치돈까스나베", "코돈부르"],
     "likes": 0,
     "image": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190707_63%2F1562462598960nPDMy_JPEG%2FW7iKQEhTMzCF3flC1t0pzgzF.jpeg.jpg"
+  },
+  {
+    "id": 4,
+    "name": "좋은 수업을 해주셔서 감사합니다! ",
+    "category": "일식",
+    "location": "경기 수원시 영통구 월드컵로193번길 7",
+    "priceRange": "10,000-16,000원",
+    "rating": 4.89,
+    "description": "일식 맛집, 구 허수아비,",
+    "recommendedMenu": ["냉모밀", "김치돈까스나베", "코돈부르"],
+    "likes": 0,
+    "image": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190707_63%2F1562462598960nPDMy_JPEG%2FW7iKQEhTMzCF3flC1t0pzgzF.jpeg.jpg"
   }
 ]
